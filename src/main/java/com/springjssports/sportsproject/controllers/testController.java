@@ -1,4 +1,4 @@
-package com.springjssports.sportsproject.controller;
+package com.springjssports.sportsproject.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
