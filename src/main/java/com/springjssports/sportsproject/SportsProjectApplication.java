@@ -8,7 +8,7 @@ import org.springframework.core.SpringVersion;
 public class SportsProjectApplication {
 
     public static void main(String[] args) {
-     //   System.out.println("Spring Core Version:- " + SpringVersion.getVersion());
+     //    System.out.println("Spring Core Version:- " + SpringVersion.getVersion());
         SpringApplication.run(SportsProjectApplication.class, args);
     }
 
